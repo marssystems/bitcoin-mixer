@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="106" height="133" viewBox="0 0 106 133">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9ceeff"/>
+      <stop offset="1" stop-color="#6454f0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ffed"/>
+      <stop offset="1" stop-color="#00c2a8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffd91a"/>
+      <stop offset="1" stop-color="#ffac1c"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_166" data-name="Group 166" transform="translate(-1407.568 -1023)">
+    <rect id="Rectangle_180" data-name="Rectangle 180" width="69" height="2" rx="1" transform="translate(1427 1113)" fill="#aaf3ed"/>
+    <path id="Rectangle_181" data-name="Rectangle 181" d="M6,0H16a6,6,0,0,1,6,6V51a0,0,0,0,1,0,0H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" transform="translate(1419 1064)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_182" data-name="Rectangle 182" d="M6,0H16a6,6,0,0,1,6,6V65a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(1450 1050)" fill="url(#linear-gradient-2)"/>
+    <path id="Rectangle_183" data-name="Rectangle 183" d="M6,0H16a6,6,0,0,1,6,6V86a6,6,0,0,1-6,6H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(1481 1023)" fill="url(#linear-gradient-3)"/>
+    <text id="_3rd_Level" data-name="3rd Level" transform="translate(1460.568 1150)" fill="#6e70f2" font-size="24" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="-52.693" y="0">3rd Level</tspan></text>
+  </g>
+</svg>

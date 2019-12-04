@@ -1,0 +1,6 @@
+THIS LETTER FROM BitMix.Biz SIGNED BY 1BitmixQRMUHYYEi11KBRhSfACa1BtcZrZ
+-----BEGIN BITCOIN SIGNED MESSAGE-----
+We hereby confirm that BitMix.Biz has generated the litecoin address M8GPdiEXNhUZJGRqjtcc2d19seQdXEj3Ji in order to transfer incoming amount (minus fee) to the following address(es): 49% to LPcX16AE6t53ytZApsoipX8c2ze6Jnt3Xy after 3h. and 51% to LQAPWpJBZMS5V3EBGHyPRN688N2qCBD8p6 after 6h.. This service will be only available for all coins received from 2019-11-07T09:12:50+00:00 to 2019-11-10T09:12:50+00:00 with minimum and maximum amount of 0.03 and 31892.6370771. Our fee is 2.559% + 0.0006 for every forward address. Difference can be up to 1% due to randomized option is enabled. This letter is digitally signed by our main account: 1BitmixQRMUHYYEi11KBRhSfACa1BtcZrZ. Stay protected and thank you for your services.
+-----BEGIN SIGNATURE-----
+HNFtPCe4FtRW0RCAAckCrfO4GOyD+LFbHYXPEiIP/I38Yd96s0ULiQxX8OmZVdfRoERrZmL2CoZF45IZHcGVv18=
+-----END BITCOIN SIGNED MESSAGE-----

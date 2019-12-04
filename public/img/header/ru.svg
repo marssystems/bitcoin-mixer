@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="117.85" height="117.852" viewBox="0 0 117.85 117.852">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_1" data-name="Path 1" d="M61.965,76.989c21.024-13.8,54.5-20.86,54.5,11.3A58.23,58.23,0,1,1,0,88.289C0,56.13,40.941,90.793,61.965,76.989Z" transform="translate(-13633.637 -2563.024)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_372" data-name="Group 372" transform="translate(13635.025 2533.83)">
+    <path id="Path_3" data-name="Path 3" d="M58.925,0A58.926,58.926,0,1,1,0,58.926,58.925,58.925,0,0,1,58.925,0Z" transform="translate(-13635.025 -2533.83)" fill="#ddfefc"/>
+    <g id="Mask_Group_72" data-name="Mask Group 72" clip-path="url(#clip-path)">
+      <g id="russia_1_" data-name="russia (1)" transform="translate(-13647.049 -2528.723)">
+        <path id="Path_1164" data-name="Path 1164" d="M13.433,31.065H129.851v81.153H13.433Z" fill="#0b55b1"/>
+        <path id="Path_1165" data-name="Path 1165" d="M13.433,31.065H129.851V58.116H13.433Z" fill="#f0f0f0"/>
+        <path id="Path_1166" data-name="Path 1166" d="M13.433,85.168H129.851v27.051H13.433Z" fill="#d60a2e"/>
+      </g>
+    </g>
+  </g>
+</svg>

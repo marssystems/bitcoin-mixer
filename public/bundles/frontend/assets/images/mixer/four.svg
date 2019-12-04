@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51.663" height="52.574" viewBox="0 0 51.663 52.574">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ffed"/>
+      <stop offset="1" stop-color="#00c2a8"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <ellipse id="Ellipse_84" data-name="Ellipse 84" cx="25.832" cy="25.832" rx="25.832" ry="25.832" transform="translate(0 0)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9ceeff"/>
+      <stop offset="1" stop-color="#6454f0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_176" data-name="Group 176" transform="translate(-356.459 -469)">
+    <path id="Path_535" data-name="Path 535" d="M25.5,0A25.5,25.5,0,1,1,0,25.5,25.5,25.5,0,0,1,25.5,0Z" transform="translate(357 469)" fill="rgba(132,230,225,0.11)"/>
+    <g id="Mask_Group_14" data-name="Mask Group 14" transform="translate(356.459 469.91)" clip-path="url(#clip-path)">
+      <path id="Path_189" data-name="Path 189" d="M985,1001.583s2.983,6.9,12.064,0,15.551,2.562,24.056,2.562,8.63-4.392,15.049-5.578a14.245,14.245,0,0,1,11.177,3.016v42.135H986.376Z" transform="translate(-990.746 -987.055)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <path id="Path_534" data-name="Path 534" d="M18.112-7.9v4.1h-2.4V0H11.264V-3.808H.672V-7.9L8.128-22.4h4.736L5.444-7.9h5.82v-5.312h4.448V-7.9Z" transform="translate(373.328 505.4)" fill="#0c2a57" stroke="#fff" stroke-width="1"/>
+  </g>
+</svg>

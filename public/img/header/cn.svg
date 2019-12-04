@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="117.85" height="117.852" viewBox="0 0 117.85 117.852">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_1" data-name="Path 1" d="M61.965,76.989c21.024-13.8,54.5-20.86,54.5,11.3A58.23,58.23,0,1,1,0,88.289C0,56.13,40.941,90.793,61.965,76.989Z" transform="translate(-13620.637 -2365.024)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_374" data-name="Group 374" transform="translate(13622.025 2335.83)">
+    <path id="Path_3" data-name="Path 3" d="M58.925,0A58.926,58.926,0,1,1,0,58.926,58.925,58.925,0,0,1,58.925,0Z" transform="translate(-13622.025 -2335.83)" fill="#ddfefc"/>
+    <g id="Mask_Group_74" data-name="Mask Group 74" clip-path="url(#clip-path)">
+      <g id="china" transform="translate(-13634.05 -2330.723)">
+        <path id="Path_1168" data-name="Path 1168" d="M13.433,31.065h116.42v81.154H13.433Z" fill="#d60a2e"/>
+        <g id="Group_365" data-name="Group 365" transform="translate(4 11)">
+          <path id="Path_1169" data-name="Path 1169" d="M32.833,45.869l4.08,8.268,9.123,1.325-6.6,6.436,1.559,9.087-8.161-4.291-8.162,4.291L26.23,61.9l-6.6-6.436,9.123-1.325Z" fill="#fed953"/>
+          <path id="Path_1170" data-name="Path 1170" d="M57,61.738l1.631,3.3,3.646.529-2.638,2.572.622,3.63L57,70.06,53.74,71.774l.622-3.63-2.637-2.572,3.646-.529Z" fill="#fed953"/>
+          <path id="Path_1171" data-name="Path 1171" d="M55.071,47.293l2.98,2.167,3.474-1.226-1.141,3.5,2.24,2.925-3.684,0-2.091,3.034-1.136-3.5-3.531-1.05,2.981-2.164Z" fill="#fed953"/>
+          <path id="Path_1172" data-name="Path 1172" d="M50.292,37.325l-.7,3.618,2.586,2.625-3.656.456-1.7,3.27-1.563-3.336-3.635-.6,2.69-2.518-.55-3.643L47,38.973Z" fill="#fed953"/>
+          <path id="Path_1173" data-name="Path 1173" d="M50.292,74.392l-.7,3.618,2.586,2.624-3.656.456-1.7,3.27-1.563-3.336-3.635-.6,2.69-2.518-.55-3.643L47,76.04Z" fill="#fed953"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

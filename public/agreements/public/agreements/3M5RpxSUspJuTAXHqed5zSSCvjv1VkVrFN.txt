@@ -1,0 +1,6 @@
+THIS LETTER FROM BitMix.Biz SIGNED BY 1BitmixQRMUHYYEi11KBRhSfACa1BtcZrZ
+-----BEGIN BITCOIN SIGNED MESSAGE-----
+We hereby confirm that BitMix.Biz has generated the bitcoin address 3M5RpxSUspJuTAXHqed5zSSCvjv1VkVrFN in order to transfer incoming amount (minus fee) to the following address(es): 49% to 1BefZWoaKM5A48Vd6WL55z5dik1xPYzDLT after 45h. 28m. and 51% to 1LBJQHUL2ojigtMV9v9otdcavJb33xeHFw after 30h. 6m.. This service will be only available for all coins received from 2019-11-07T08:55:36+00:00 to 2019-11-10T08:55:36+00:00 with minimum and maximum amount of 0.01 and 6040.280499. Our fee is 3.729% + 0.0006 for every forward address. Difference can be up to 1% due to randomized option is enabled. This letter is digitally signed by our main account: 1BitmixQRMUHYYEi11KBRhSfACa1BtcZrZ. Stay protected and thank you for your services.
+-----BEGIN SIGNATURE-----
+HGvjyg840oBPsgIf5r75nrw8Mp68yvYEkLUIYq+KtPmdeE03sWnX+Ad+7C4zEVc6As+o4oNT8olefd3K3dNZFmk=
+-----END BITCOIN SIGNED MESSAGE-----

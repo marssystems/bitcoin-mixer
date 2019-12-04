@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="118.401" height="118.326" viewBox="0 0 118.401 118.326">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_1" data-name="Path 1" d="M61.965,76.989c21.024-13.8,54.5-20.86,54.5,11.3A58.231,58.231,0,0,1,58.23,146.52c-32.16,0-60.171-26.071-60.171-58.231S40.941,90.793,61.965,76.989Z" transform="translate(-13620.637 -2365.024)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_1168" data-name="Path 1168" d="M13.433,31.065h118.38v82.521H13.433Z" transform="translate(-13.433 -31.065)" fill="#d60a2e"/>
+    </clipPath>
+  </defs>
+  <g id="turk" transform="translate(13622.577 2335.83)">
+    <path id="Path_3" data-name="Path 3" d="M58.925,0A58.926,58.926,0,1,1,0,58.926,58.925,58.925,0,0,1,58.925,0Z" transform="translate(-13622.025 -2335.83)" fill="#ddfefc"/>
+    <g id="Mask_Group_74" data-name="Mask Group 74" transform="translate(0 1)" clip-path="url(#clip-path)">
+      <g id="china" transform="translate(-13636.01 -2332.09)">
+        <g id="Mask_Group_77" data-name="Mask Group 77" transform="translate(13.433 31.065)" clip-path="url(#clip-path-2)">
+          <g id="turkey">
+            <path id="Path_16352" data-name="Path 16352" d="M13.433,31.065h118.38v82.521H13.433Z" transform="translate(-13.433 -31.065)" fill="#d60a2e"/>
+            <g id="Group_378" data-name="Group 378" transform="translate(22.454 20.937)">
+              <path id="Path_16353" data-name="Path 16353" d="M64.018,87.756a15.776,15.776,0,1,1,5.937-30.392,20.319,20.319,0,1,0,0,29.222,15.715,15.715,0,0,1-5.937,1.17Z" transform="translate(-35.515 -51.656)" fill="#f0f0f0"/>
+              <path id="Path_16354" data-name="Path 16354" d="M87.375,66.171,80.342,69.1l-4.7-6.01.6,7.609-7.16,2.6L76.5,75.2l.263,7.491,4.117-6.148,7.192,1.745-4.872-5.7Z" transform="translate(-34.95 -51.463)" fill="#f0f0f0"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,85 @@
+.width-100-imp {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+
+.flex0-5 {
+    flex: 0.5 !important;
+}
+
+.mt-0 {
+    margin-top: 0 !important;
+}
+
+.mb-10 {
+    margin-bottom: 10px !important;
+}
+
+.mb-0 {
+    margin-bottom: 0 !important;
+}
+
+.vertical-align-sub {
+    vertical-align: sub !important;
+}
+
+.cs-label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+.cs-label-success {
+    background-color: #5cb85c;
+}
+
+.cs-label-warning {
+    background-color: #f0ad4e;
+}
+
+.cs-label-primary {
+    background-color: #9d9ff9;
+}
+
+.cs-label-danger {
+    background-color: #d9534f;
+}
+
+.d-none {
+    display: none;
+}
+
+#output-step-1 {
+    width: 100%;
+    height: auto;
+}
+
+.font-1rem {
+    font-size: 1.0rem !important;
+}
+
+.font1-7rem {
+    font-size: 1.7rem !important;
+}
+
+.font-2rem {
+    font-size: 2rem !important;
+
+}
+
+.min-height-450 {
+    min-height: 450px !important;
+}
+
+.scroll-x {
+    max-width: 100%;
+    overflow-x: scroll;
+}
